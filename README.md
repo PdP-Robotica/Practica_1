@@ -4,7 +4,7 @@
 - Luis Fernando Duarte Reséndiz
 - Mauricio Alberto Gómez Arroyo
 - Diego Brandon Guzmán Sierra
-- Brian Hiadim Vera Hernández
+- Bryan Hiadim Vera Hernández
 
 ## Introducción:
 En esta práctica se instalará el programa EpsonRC+, que es el software que se utilizará en el laboratorio para programar y mover el Robot Epson C4, mediante la conexión de este software con el robot, la cual veremos cómo se realiza, y así mismo iremos familiarizándonos con el uso de este software para las prácticas posteriores.
